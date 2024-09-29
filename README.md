@@ -15,5 +15,3 @@ I'm passionate about crafting innovative digital experiences that bridge the gap
 - Exploring AI/ML applications in web and mobile development
 - Experimenting with IoT projects to connect software with hardware
 
-### 👯 Let's Collaborate
-I'm always open to exciting projects and collaborations. If you're working on something innovative at the intersection of web, mobile, AI, and IoT, let's connect!
